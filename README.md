@@ -246,7 +246,8 @@ Test with various file types:
 ## 🚀 Deployment
 
 ### Backend Deployment Options
-- **Railway**: ailway deploy
+- **Railway**: 
+ailway deploy
 - **Heroku**: git push heroku main
 - **PythonAnywhere**: Upload via dashboard
 - **AWS Elastic Beanstalk**: b deploy
@@ -345,7 +346,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an [Issue](https://github.com/Vishal-Dubey18/UNTHINKABLE_SOLUTION/issues)
-- Email: vishal.dubey@example.com
+- Email: vdubey8511@gmail.com
 - Documentation: [GitHub Wiki](https://github.com/Vishal-Dubey18/UNTHINKABLE_SOLUTION/wiki)
 
 ## 🎯 Future Enhancements
@@ -362,3 +363,4 @@ For support and questions:
 ---
 
 **Built with ❤️ by Vishal Dubey**
+
